@@ -46,7 +46,7 @@ You'll need available resource quotas and permissions to create the following re
 
 If you don't have the required service limits/quota, contact your tenancy administrator.  See [Service Limits](https://docs.cloud.oracle.com/en-us/iaas/Content/General/Concepts/servicelimits.htm), [Compartment Quotas](https://docs.cloud.oracle.com/iaas/Content/General/Concepts/resourcequotas.htm)for more information on service limits and quotas.
 
-## Sign up for an Always-Free tier OCI account
+## Sign up for an Free-tier OCI account
 
 1. Visit the [Oracle Cloud Free Tier](https://signup.cloud.oracle.com/?language=en_US&sourceType=:ow:de:te::::RC_WWMK210628P00062:FreeTierSignup&intcmp=:ow:de:te::::RC_WWMK210628P00062:FreeTierSignup) page.
 
@@ -54,11 +54,9 @@ If you don't have the required service limits/quota, contact your tenancy admini
 
 <img width="1364" alt="sign-up-page" src="https://user-images.githubusercontent.com/12158601/128405323-2df0fb17-a3ab-423c-9836-b6f8b91bd4c8.png">
 
-2. Click the link sent to your email and continue adding account details, including adding payment verification (you won't be charged unless you want to upgrade your Always-free tier account at a later date). 
+2. Click the link sent to your email and continue adding account details. 
 
 After reviewing the terms and services for your Oracle Cloud Services account, click **Start my free trial**.
-
-<img width="2047" alt="startMyFreeTrial1" src="https://user-images.githubusercontent.com/12158601/128408494-80de1447-2514-44c3-a8ca-afc0af87453f.png">
 
 3. Wait for your account to be provisioned. This should take approximately two minutes.
 
