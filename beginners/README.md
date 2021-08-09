@@ -6,6 +6,26 @@ You'll need an OCI free trial account ([click here to sign up](https://signup.cl
 
 Registered lab participants should have received $500 in credits to use for Data Science operations.
 
+### Sign up for a Free tier OCI account
+
+1. Visit the [Oracle Cloud Free Tier](https://signup.cloud.oracle.com/?language=en_US&sourceType=:ow:de:te::::RC_WWMK210628P00062:FreeTierSignup&intcmp=:ow:de:te::::RC_WWMK210628P00062:FreeTierSignup) page.
+
+   Enter your account information and click **Verify my email**.
+
+<img width="1364" alt="sign-up-page" src="https://user-images.githubusercontent.com/12158601/128405323-2df0fb17-a3ab-423c-9836-b6f8b91bd4c8.png">
+
+2. Click the link sent to your email and continue adding account details. 
+
+After reviewing the terms and services for your Oracle Cloud Services account, click **Start my free trial**.
+
+3. Wait for your account to be provisioned. This should take approximately two minutes.
+
+<img width="2047" alt="waitForSetUp" src="https://user-images.githubusercontent.com/12158601/128412713-67bf96b2-dd42-4e6b-b4d0-715441e6f2d7.png">
+
+4. After your account is ready, the Get Started tab of your account displays.
+
+<img width="2048" alt="successSignUp" src="https://user-images.githubusercontent.com/12158601/128412847-ed99fb08-36c2-4918-a0c3-ba5b5fc3396d.png">
+
 ## Getting Started
 
 1. Click the button below to begin the deploy of the Data Science stack and custom image:
